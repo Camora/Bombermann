@@ -1,6 +1,8 @@
 package control;
 
 import network.Message;
+import network.client.ClientApplicationInterface;
+import network.client.ServerProxy;
 
 /**
  * Die Klasse ServerProxyStub ist von ServerProxy abgeleitet und dient dazu den Client

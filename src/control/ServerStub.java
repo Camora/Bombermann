@@ -3,6 +3,8 @@ package control;
 import java.util.Scanner;
 
 import network.Message;
+import network.server.Server;
+import network.server.ServerApplicationInterface;
 
 /**
  * Die Klasse ServerStub dient dazu die Teilkomponente application.server isoliert von der
